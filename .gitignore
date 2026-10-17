@@ -1,0 +1,11 @@
+node_modules/
+reference-demo/dist/
+reference-demo/.preview-data/
+reference-demo/worker/index.js
+kiro-app/dist/
+kiro-app/.preview-data/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
